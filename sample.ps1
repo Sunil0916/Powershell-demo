@@ -1,3 +1,3 @@
 Get-Location
-Get-Service
+PSversionTable
 Get-Process
