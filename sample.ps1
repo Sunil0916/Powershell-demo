@@ -1,3 +1,3 @@
 Get-Location
-Get-History
+Get-PSDrive
 Get-Process
