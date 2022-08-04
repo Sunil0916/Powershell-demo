@@ -1,3 +1,3 @@
 Get-Location
-PSversionTable
+$PSversionTable
 Get-Process
