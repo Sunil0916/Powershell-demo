@@ -1,3 +1,3 @@
 Get-Location
-Get-Service
+Get-History
 Get-Process
