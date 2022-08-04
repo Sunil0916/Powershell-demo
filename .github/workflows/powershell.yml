@@ -9,7 +9,7 @@ jobs:
       - name: check out repo
         uses: actions/checkout@v2
 
-      - name: Powershell script
+      - name: Runs Powershell script
         run: ./sample.ps1
 
 
