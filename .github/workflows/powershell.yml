@@ -9,10 +9,8 @@ jobs:
       - name: check out repo
         uses: actions/checkout@v2
 
-      - name: multiline script
-        run: |
-          Get-Process
-          ./sample.ps1
+      - name: Powershell script
+        run: ./sample.ps1
 
 
   
