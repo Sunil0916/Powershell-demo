@@ -1,3 +1,3 @@
 Get-Location
-Get-PSDrive
+Get-Service
 Get-Process
